@@ -9,7 +9,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-//test this other test
+//test this branch 5
         setContentView(R.layout.activity_main);
     }
 }
